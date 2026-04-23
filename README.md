@@ -70,7 +70,7 @@ Use this wording when sharing the pack publicly:
 
 ## Included profiles
 
-The pack still ships with the existing profile set so OpenClaw deployments can stay selective rather than enabling everything at once. See `PROFILE_SELECTION_GUIDE.md` for the recommended rollout order and `examples` for config snippets.
+The pack still ships with the existing profile set so OpenClaw deployments can stay selective rather than enabling everything at once. See `PROFILE_SELECTION_GUIDE.md` for the recommended rollout order and `examples/` for config snippets.
 
 ## Quick positioning
 
@@ -86,6 +86,7 @@ This pack is best described as:
 ## Validation
 
 Run:
+
 ```bash
 python scripts/validate_skills.py
 ```

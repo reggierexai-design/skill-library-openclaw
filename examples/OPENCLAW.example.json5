@@ -1,0 +1,61 @@
+// Example snippets for merging the RexBot / Rex Hub community pack into OpenClaw config.
+
+{
+  agents: {
+    defaults: {
+      skills: [
+        // Start with the lean baseline.
+        "core_evidence_research",
+        "core_execute_safely",
+        "core_handoff_summary",
+        "core_plan_task",
+        "core_recover_after_fail",
+        "core_review_changes",
+        "core_risk_gate",
+        "core_route_request",
+        "core_scout_workspace",
+        "core_verify_done",
+        "core_decision_record",
+        "safe_browser_login",
+        "safe_install_gate",
+        "safe_secret_hygiene",
+        "safe_untrusted_input",
+        "safe_live_systems",
+        "safe_pii_minimization",
+      ],
+    },
+
+    list: [
+      {
+        id: "attention-agent",
+        skills: [
+          // Replace defaults with a focused role allowlist.
+          "core_evidence_research",
+          "core_execute_safely",
+          "core_handoff_summary",
+          "core_plan_task",
+          "core_recover_after_fail",
+          "core_review_changes",
+          "core_risk_gate",
+          "core_route_request",
+          "core_scout_workspace",
+          "core_verify_done",
+          "core_decision_record",
+          "safe_browser_login",
+          "safe_install_gate",
+          "safe_secret_hygiene",
+          "safe_untrusted_input",
+          "safe_live_systems",
+          "safe_pii_minimization",
+          "att_attention_orchestrator",
+          "att_launch_plan",
+          "att_message_house",
+          "att_social_proof_pack",
+          "res_claim_audit",
+          "res_keyword_demand_map",
+          "prod_persona_snapshot",
+        ],
+      },
+    ],
+  },
+}

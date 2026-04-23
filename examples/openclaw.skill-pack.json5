@@ -1,0 +1,46 @@
+// Example OpenClaw config snippets for the RexBot / Rex Hub community library.
+// Merge the skills arrays into agents.defaults.skills or per-agent agents.list[].skills.
+
+{
+  agents: {
+    defaults: {
+      skills: [
+        "core_context_budget",
+        "core_plan_task",
+        "core_review_changes",
+        "core_verify_done",
+        "safe_external_claims",
+        "safe_secret_hygiene",
+        "qa_acceptance_test_plan"
+      ]
+    },
+    list: [
+      {
+        id: "builder",
+        skills: [
+          "core_context_budget",
+          "core_plan_task",
+          "core_review_changes",
+          "core_verify_done",
+          "safe_high_impact_changes",
+          "eng_debug_systematically",
+          "eng_code_review_pass",
+          "eng_test_strategy",
+          "qa_release_smoke_test",
+          "sec_appsec_review"
+        ]
+      },
+      {
+        id: "gtm",
+        skills: [
+          "core_evidence_research",
+          "safe_external_claims",
+          "att_attention_orchestrator",
+          "att_message_house",
+          "att_proof_mining",
+          "sales_account_plan"
+        ]
+      }
+    ]
+  }
+}

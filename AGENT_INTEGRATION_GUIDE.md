@@ -1,22 +1,50 @@
 # Agent Integration Guide
 
-## Overview
-This guide explains how to integrate the skill library into a running OpenClaw agent.
+Use this guide when wiring the **RexBot / Rex Hub community pack** into OpenClaw agents.
 
-## Steps
-1. Choose a profile from `profiles/`.
-2. Install it using `python scripts/install_profile.py <profile>`.
-3. Restart your agent and verify the skills are discoverable.
-4. Keep standing guidance in `AGENTS.md` or equivalent workspace notes.
+## Integration principle
 
-## Profile routing
-Start with `minimal_core` and add domain profiles one at a time.
-Do not enable the full library globally intead of using profiles.
+Attach skills to agents based on the work they actually perform, not on the fact that the skills exist.
 
-## Model-ysing overhead
-Each profile includes an `estimated_prompt_tokens` field.
-Keep the total model-visible overhead under 4 K tokens for best results.
+## Good patterns
 
-## Handoff between skills
-Skills emit handoff cues when their work crosses into another skill‧ domain.
-Follow the handoff cues in the skill's output contract to decide whether to re-route.
+### Engineering agent
+- core
+- safety
+- engineering
+- quality
+- selected docs/release skills
+
+### Research/strategy agent
+- core
+- safety
+- research
+- product
+- selected attention skills
+
+### Launch/content agent
+- core
+- safety
+- attention
+- research
+- docs
+- selected product skills
+
+### AI builder agent
+- core
+- safety
+- AI
+- engineering
+- quality
+- security
+
+## Bad patterns
+
+- every agent gets every profile
+- no safety layer on public or risky work
+- no quality/security layer on shipping workflows
+- one profile doing both broad orchestration and narrow domain work without routing support
+
+## AGENTS usage
+
+Use the included examples as starting points, then trim aggressively. Broad skill availability should be earned by proven need.

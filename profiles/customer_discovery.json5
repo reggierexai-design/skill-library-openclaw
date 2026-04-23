@@ -1,0 +1,41 @@
+// Customer discovery, product learning, interviews, win-loss, and product synthesis.
+// Merge the skills array into agents.defaults.skills or an agent-specific skills allowlist.
+{
+  agents: {
+    defaults: {
+      skills: [
+        "core_context_budget",
+        "core_decision_record",
+        "core_evidence_research",
+        "core_execute_safely",
+        "core_handoff_summary",
+        "core_parallelize_work",
+        "core_plan_task",
+        "core_recover_after_fail",
+        "core_review_changes",
+        "core_risk_gate",
+        "core_route_request",
+        "core_scout_workspace",
+        "core_verify_done",
+        "safe_browser_login",
+        "safe_external_claims",
+        "safe_high_impact_changes",
+        "safe_install_gate",
+        "safe_live_systems",
+        "safe_pii_minimization",
+        "safe_secret_hygiene",
+        "safe_untrusted_input",
+        "res_interview_synthesis",
+        "res_win_loss_review",
+        "res_message_board_scan",
+        "res_competitor_scan",
+        "res_market_map",
+        "prod_jobs_to_be_done",
+        "prod_feedback_synthesis",
+        "prod_persona_snapshot",
+        "prod_product_brief",
+        "sales_discovery_call_plan",
+      ],
+    },
+  },
+}
