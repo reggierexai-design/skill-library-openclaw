@@ -3,7 +3,7 @@ name: comm_retention_audit
 description: "Audit why community members leave and design interventions to improve retention."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"📌"}}
+metadata: {"openclaw":{"emoji":"📌"}
 ---
 
 # Retention Audit

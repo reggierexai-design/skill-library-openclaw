@@ -3,7 +3,7 @@ name: ops_project_brief
 description: "Create a clear working brief for an initiative so collaborators can align fast."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udccb"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udccb"}
 ---
 
 ## Purpose

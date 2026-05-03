@@ -1,9 +1,9 @@
-﻿---
+---
 name: sales_proposal_outline
 description: "Outline a proposal around goals, scope, proof, pricing, and mutual next steps."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udcc4"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udcc4"}
 ---
 
 ## Purpose

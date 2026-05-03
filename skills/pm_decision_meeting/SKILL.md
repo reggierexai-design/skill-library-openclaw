@@ -3,7 +3,7 @@ name: pm_decision_meeting
 description: "Prepare a meeting so it actually resolves a decision instead of circling the issue again."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83e\ude91"}}
+metadata: {"openclaw":{"emoji":"\ud83e\ude91"}
 ---
 
 ## Purpose

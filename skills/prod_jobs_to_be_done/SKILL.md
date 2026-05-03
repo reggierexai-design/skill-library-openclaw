@@ -3,7 +3,7 @@ name: prod_jobs_to_be_done
 description: "Frame the product around the user job, context, forces, and switching logic instead of feature lists."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"📦"}}
+metadata: {"openclaw":{"emoji":"📦"}
 ---
 
 ## Purpose

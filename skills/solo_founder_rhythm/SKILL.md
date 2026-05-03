@@ -3,7 +3,7 @@ name: solo_founder_rhythm
 description: "Design a sustainable daily and weekly rhythm that protects deep work, ships product, and prevents burnout."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"⏰"}}
+metadata: {"openclaw":{"emoji":"⏰"}
 ---
 
 # Founder Rhythm

@@ -3,7 +3,7 @@ name: prod_feature_priority
 description: "Prioritize features by user value, strategic fit, effort, and timing instead of loud opinions."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"📦"}}
+metadata: {"openclaw":{"emoji":"📦"}
 ---
 
 ## Purpose

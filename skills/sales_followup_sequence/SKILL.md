@@ -1,9 +1,9 @@
-﻿---
+---
 name: sales_followup_sequence
 description: "Write a short follow-up sequence that moves a deal forward without sounding automated."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udce8"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udce8"}
 ---
 
 ## Purpose

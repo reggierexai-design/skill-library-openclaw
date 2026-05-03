@@ -3,7 +3,7 @@ name: ops_vendor_eval
 description: "Evaluate tools, vendors, and service providers for fit, lock-in risk, cost, and operating burden."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udccb"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udccb"}
 ---
 
 ## Purpose

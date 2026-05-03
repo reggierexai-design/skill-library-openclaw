@@ -3,7 +3,7 @@ name: prod_ux_flow_design
 description: "Design the task flow, screen sequence, and user decisions before polishing UI details."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"📦"}}
+metadata: {"openclaw":{"emoji":"📦"}
 ---
 
 ## Purpose

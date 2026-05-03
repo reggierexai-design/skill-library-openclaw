@@ -3,7 +3,7 @@ name: doc_troubleshooting_guide
 description: "Organize diagnosis by symptom, checks, and likely causes so users can recover methodically."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83e\ude7a"}}
+metadata: {"openclaw":{"emoji":"\ud83e\ude7a"}
 ---
 
 ## Purpose

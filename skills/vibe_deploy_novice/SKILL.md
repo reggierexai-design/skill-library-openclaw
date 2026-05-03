@@ -3,7 +3,7 @@ name: vibe_deploy_novice
 description: "Deploy your first app to the internet even if you've never used a terminal before."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🌐"}}
+metadata: {"openclaw":{"emoji":"🌐"}
 ---
 
 # Deploy Novice

@@ -3,7 +3,7 @@ name: pm_scope_tradeoffs
 description: "Clarify what to cut, defer, or simplify when time, quality, and capacity are in tension."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"\u2702\ufe0f"}}
+metadata: {"openclaw":{"emoji":"\u2702\ufe0f"}
 ---
 
 ## Purpose

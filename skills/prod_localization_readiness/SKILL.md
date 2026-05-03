@@ -1,9 +1,9 @@
-﻿---
+---
 name: prod_localization_readiness
 description: "Review a product or launch for localization, i18n, and translation-readiness gaps."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83c\udf0d"}}
+metadata: {"openclaw":{"emoji":"\ud83c\udf0d"}
 ---
 
 ## Purpose

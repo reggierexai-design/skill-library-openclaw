@@ -3,7 +3,7 @@ name: prod_pricing_packaging
 description: "Shape plans, limits, and upgrade logic so pricing matches value and buying psychology."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"📦"}}
+metadata: {"openclaw":{"emoji":"📦"}
 ---
 
 ## Purpose

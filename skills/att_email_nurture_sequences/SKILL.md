@@ -3,7 +3,7 @@ name: att_email_nurture_sequences
 description: "Build concise email sequences for launches, onboarding, activation, and reactivation."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udce3"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udce3"}
 ---
 
 ## Purpose

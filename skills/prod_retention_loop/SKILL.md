@@ -3,7 +3,7 @@ name: prod_retention_loop
 description: "Find the repeat-use loop that makes the product worth returning to and worth keeping."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"📦"}}
+metadata: {"openclaw":{"emoji":"📦"}
 ---
 
 ## Purpose

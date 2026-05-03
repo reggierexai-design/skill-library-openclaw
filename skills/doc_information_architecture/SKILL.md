@@ -3,7 +3,7 @@ name: doc_information_architecture
 description: "Organize docs so users can find the right answer quickly by role, task, and depth."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\uddc2\ufe0f"}}
+metadata: {"openclaw":{"emoji":"\ud83d\uddc2\ufe0f"}
 ---
 
 ## Purpose

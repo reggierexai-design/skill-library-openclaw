@@ -3,7 +3,7 @@ name: des_empty_states_copy
 description: "Write empty-state copy that teaches the next step without sounding robotic or needy."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\u270d\ufe0f"}}
+metadata: {"openclaw":{"emoji":"\u270d\ufe0f"}
 ---
 
 ## Purpose

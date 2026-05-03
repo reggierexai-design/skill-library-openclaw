@@ -1,9 +1,9 @@
-﻿---
+---
 name: qa_risk_based_testing
 description: "Prioritize testing by user impact, change risk, and failure cost instead of equal treatment."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"\ud83d\udcc9"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udcc9"}
 ---
 
 ## Purpose

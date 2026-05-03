@@ -1,9 +1,9 @@
-﻿---
+---
 name: sec_permission_audit
 description: "Audit roles, scopes, and permissions for least-privilege gaps and over-broad access."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83e\udeaa"}}
+metadata: {"openclaw":{"emoji":"\ud83e\udeaa"}
 ---
 
 ## Purpose

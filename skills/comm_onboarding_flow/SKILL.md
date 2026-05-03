@@ -3,7 +3,7 @@ name: comm_onboarding_flow
 description: "Design a community onboarding flow that turns newcomers into active participants."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🚪"}}
+metadata: {"openclaw":{"emoji":"🚪"}
 ---
 
 # Onboarding Flow

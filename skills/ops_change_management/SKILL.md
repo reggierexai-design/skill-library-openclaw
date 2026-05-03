@@ -1,9 +1,9 @@
-﻿---
+---
 name: ops_change_management
 description: "Prepare a significant change with approvals, communication, rollout timing, and fallback plans."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"\ud83d\udccb"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udccb"}
 ---
 
 ## Purpose

@@ -1,9 +1,9 @@
-﻿---
+---
 name: sales_objection_map
 description: "Turn recurring objections into clearer responses, proof paths, and qualification cues."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83e\uddf1"}}
+metadata: {"openclaw":{"emoji":"\ud83e\uddf1"}
 ---
 
 ## Purpose

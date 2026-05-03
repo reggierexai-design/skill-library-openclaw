@@ -3,7 +3,7 @@ name: prod_onboarding_design
 description: "Design first-run guidance so new users reach value quickly without excess friction or explanation."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"📦"}}
+metadata: {"openclaw":{"emoji":"📦"}
 ---
 
 ## Purpose

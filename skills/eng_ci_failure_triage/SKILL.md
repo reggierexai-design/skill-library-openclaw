@@ -3,7 +3,7 @@ name: eng_ci_failure_triage
 description: "Turn a failing CI run into a narrowed cause, likely fix path, and safe next step."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🛠️"}}
+metadata: {"openclaw":{"emoji":"🛠️"}
 ---
 
 ## Purpose

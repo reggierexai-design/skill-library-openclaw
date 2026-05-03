@@ -3,7 +3,7 @@ name: eng_release_readiness
 description: "Check whether the change is coherent enough to ship, document, and support."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udee0\ufe0f"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udee0\ufe0f"}
 ---
 
 ## Purpose

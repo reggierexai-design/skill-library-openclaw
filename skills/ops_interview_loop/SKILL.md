@@ -1,9 +1,9 @@
-﻿---
+---
 name: ops_interview_loop
 description: "Design an interview loop with role fit, evidence coverage, and clear decision ownership."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\uddd3\ufe0f"}}
+metadata: {"openclaw":{"emoji":"\ud83d\uddd3\ufe0f"}
 ---
 
 ## Purpose

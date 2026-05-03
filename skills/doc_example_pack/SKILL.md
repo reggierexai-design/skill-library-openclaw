@@ -1,9 +1,9 @@
-﻿---
+---
 name: doc_example_pack
 description: "Create a small, coherent set of examples that makes a feature or API easier to understand."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83e\uddf0"}}
+metadata: {"openclaw":{"emoji":"\ud83e\uddf0"}
 ---
 
 ## Purpose

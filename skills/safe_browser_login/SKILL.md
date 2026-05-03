@@ -3,7 +3,7 @@ name: safe_browser_login
 description: "Handle authenticated browsing without taking custody of user credentials or live account secrets."
 user-invocable: false
 disable-model-invocation: false
-metadata: {"openclaw":{"requires":{"config":["browser.enabled"]},"emoji":"🛡️"}}
+metadata: {"openclaw":{"requires":{"config":["browser.enabled"]}
 ---
 
 ## Purpose

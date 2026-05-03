@@ -1,9 +1,9 @@
-﻿---
+---
 name: sec_data_flow_review
 description: "Trace sensitive data through a system and find storage, exposure, retention, and permission risks."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"\ud83e\uddec"}}
+metadata: {"openclaw":{"emoji":"\ud83e\uddec"}
 ---
 
 ## Purpose

@@ -3,7 +3,7 @@ name: core_plan_task
 description: "Turn a request into a short, executable plan with checkpoints and exit criteria."
 user-invocable: false
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🧭"}}
+metadata: {"openclaw":{"emoji":"🧭"}
 ---
 
 ## Purpose

@@ -3,7 +3,7 @@ name: comm_conflict_resolution
 description: "Resolve community conflicts constructively before they damage the community culture."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"⚖️"}}
+metadata: {"openclaw":{"emoji":"⚖️"}
 ---
 
 # Conflict Resolution

@@ -1,9 +1,9 @@
-﻿---
+---
 name: data_quality_checks
 description: "Design recurring checks for freshness, completeness, consistency, and metric integrity."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"\ud83d\udccf"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udccf"}
 ---
 
 ## Purpose

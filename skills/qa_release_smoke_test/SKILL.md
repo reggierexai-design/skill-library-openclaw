@@ -1,9 +1,9 @@
-﻿---
+---
 name: qa_release_smoke_test
 description: "Create a minimal post-build smoke test that catches obvious breakage before wider rollout."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"\ud83d\udeac"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udeac"}
 ---
 
 ## Purpose

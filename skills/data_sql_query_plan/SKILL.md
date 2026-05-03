@@ -3,7 +3,7 @@ name: data_sql_query_plan
 description: "Turn an analysis question into a query plan with tables, joins, filters, and validation checks."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\uddc3\ufe0f"}}
+metadata: {"openclaw":{"emoji":"\ud83d\uddc3\ufe0f"}
 ---
 
 ## Purpose

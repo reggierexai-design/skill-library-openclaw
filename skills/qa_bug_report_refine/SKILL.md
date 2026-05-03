@@ -1,9 +1,9 @@
-﻿---
+---
 name: qa_bug_report_refine
 description: "Turn a messy bug note into a clear report with environment, repro steps, and expected behavior."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udc1e"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udc1e"}
 ---
 
 ## Purpose

@@ -3,7 +3,7 @@ name: att_social_proof_pack
 description: "Turn testimonials, wins, screenshots, and adoption signals into reusable proof assets across channels."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udce3"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udce3"}
 ---
 
 ## Purpose

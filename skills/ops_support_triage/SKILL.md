@@ -3,7 +3,7 @@ name: ops_support_triage
 description: "Sort support issues by severity, pattern, owner, and next action without losing user empathy."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"📋"}}
+metadata: {"openclaw":{"emoji":"📋"}
 ---
 
 ## Purpose

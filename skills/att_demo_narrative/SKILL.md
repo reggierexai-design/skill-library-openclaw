@@ -3,7 +3,7 @@ name: att_demo_narrative
 description: "Turn a product demo into a story with stakes, payoff, and memorable product proof."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udce3"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udce3"}
 ---
 
 ## Purpose

@@ -1,9 +1,9 @@
-﻿---
+---
 name: des_design_system_audit
 description: "Audit a design system for inconsistency, missing states, adoption friction, and maintenance burden."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83e\uddf1"}}
+metadata: {"openclaw":{"emoji":"\ud83e\uddf1"}
 ---
 
 ## Purpose

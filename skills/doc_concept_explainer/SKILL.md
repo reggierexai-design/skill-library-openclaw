@@ -1,9 +1,9 @@
-﻿---
+---
 name: doc_concept_explainer
 description: "Write a clear concept page that teaches how something works before diving into procedures."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udca1"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udca1"}
 ---
 
 ## Purpose

@@ -3,7 +3,7 @@ name: finance_invoice_tracker
 description: "Track invoices, payment terms, and cash flow timing for a small operation."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🧾"}}
+metadata: {"openclaw":{"emoji":"🧾"}
 ---
 
 # Invoice Tracker

@@ -3,7 +3,7 @@ name: core_verify_done
 description: "Prove the task is complete with checks tied to the original request and the actual changes made."
 user-invocable: false
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🧭"}}
+metadata: {"openclaw":{"emoji":"🧭"}
 ---
 
 ## Purpose

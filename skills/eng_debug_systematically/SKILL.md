@@ -3,7 +3,7 @@ name: eng_debug_systematically
 description: "Debug in ordered phases: reproduce, isolate, explain, patch, and verify."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🛠️"}}
+metadata: {"openclaw":{"emoji":"🛠️"}
 ---
 
 ## Purpose

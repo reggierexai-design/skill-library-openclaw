@@ -3,7 +3,7 @@ name: des_wireframe_spec
 description: "Describe screens, states, and interactions clearly enough to build or critique without mockups."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83e\udded"}}
+metadata: {"openclaw":{"emoji":"\ud83e\udded"}
 ---
 
 ## Purpose

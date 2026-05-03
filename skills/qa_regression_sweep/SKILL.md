@@ -1,9 +1,9 @@
-﻿---
+---
 name: qa_regression_sweep
 description: "Define a fast regression sweep around a change so adjacent breakage is caught before release."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83e\uddea"}}
+metadata: {"openclaw":{"emoji":"\ud83e\uddea"}
 ---
 
 ## Purpose

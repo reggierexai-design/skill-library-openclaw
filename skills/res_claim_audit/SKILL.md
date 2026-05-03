@@ -3,7 +3,7 @@ name: res_claim_audit
 description: "Audit landing page, pitch, or outbound claims for credibility, proof, and overreach."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udd0e"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udd0e"}
 ---
 
 ## Purpose

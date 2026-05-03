@@ -3,7 +3,7 @@ name: doc_migration_guide
 description: "Write a migration path that explains what changed, who is affected, and how to upgrade safely."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udd04"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udd04"}
 ---
 
 ## Purpose

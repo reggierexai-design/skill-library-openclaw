@@ -3,7 +3,7 @@ name: eng_dependency_risk
 description: "Evaluate whether a new package, SDK, or external service is worth its complexity and trust cost."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"🛠️"}}
+metadata: {"openclaw":{"emoji":"🛠️"}
 ---
 
 ## Purpose

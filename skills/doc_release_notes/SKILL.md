@@ -3,7 +3,7 @@ name: doc_release_notes
 description: "Turn raw changes into clear release notes grouped by user impact, risk, and next actions."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udcf0"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udcf0"}
 ---
 
 ## Purpose

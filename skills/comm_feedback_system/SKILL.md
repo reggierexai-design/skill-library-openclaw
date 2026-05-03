@@ -3,7 +3,7 @@ name: comm_feedback_system
 description: "Build a system to collect, organize, and act on community feedback and feature requests."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"💬"}}
+metadata: {"openclaw":{"emoji":"💬"}
 ---
 
 # Feedback System

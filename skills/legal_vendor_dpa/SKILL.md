@@ -3,7 +3,7 @@ name: legal_vendor_dpa
 description: "Review data processing agreements with vendors who handle user data."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🤝"}}
+metadata: {"openclaw":{"emoji":"🤝"}
 ---
 
 # Vendor DPA

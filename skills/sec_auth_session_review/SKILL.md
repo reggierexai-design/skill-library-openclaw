@@ -1,9 +1,9 @@
-﻿---
+---
 name: sec_auth_session_review
 description: "Review authentication, session handling, and account-recovery flows for takeover risk."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udd11"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udd11"}
 ---
 
 ## Purpose

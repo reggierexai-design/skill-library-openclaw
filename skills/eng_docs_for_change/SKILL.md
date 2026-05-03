@@ -3,7 +3,7 @@ name: eng_docs_for_change
 description: "Write or update technical docs, migration notes, and operator guidance for a code change."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udee0\ufe0f"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udee0\ufe0f"}
 ---
 
 ## Purpose

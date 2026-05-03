@@ -3,7 +3,7 @@ name: legal_disclaimer_audit
 description: "Audit all disclaimers, disclosures, and legal notices across your product surfaces."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"⚠️"}}
+metadata: {"openclaw":{"emoji":"⚠️"}
 ---
 
 # Disclaimer Audit

@@ -3,7 +3,7 @@ name: prod_metric_tree
 description: "Turn a goal into leading metrics, diagnostic signals, and ownership paths instead of vanity numbers."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"📦"}}
+metadata: {"openclaw":{"emoji":"📦"}
 ---
 
 ## Purpose

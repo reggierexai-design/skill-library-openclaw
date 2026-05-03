@@ -3,7 +3,7 @@ name: finance_revenue_forecast
 description: "Build a bottom-up revenue forecast grounded in real conversion and retention data."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"📈"}}
+metadata: {"openclaw":{"emoji":"📈"}
 ---
 
 # Revenue Forecast

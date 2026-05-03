@@ -3,7 +3,7 @@ name: res_competitor_scan
 description: "Map competing products, messages, wedges, and weak spots for strategy or attention work."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🔎"}}
+metadata: {"openclaw":{"emoji":"🔎"}
 ---
 
 ## Purpose

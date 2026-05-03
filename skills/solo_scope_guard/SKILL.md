@@ -3,7 +3,7 @@ name: solo_scope_guard
 description: "Prevent scope creep and overcommitment when you're the only person who can do the work."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🛡️"}}
+metadata: {"openclaw":{"emoji":"🛡️"}
 ---
 
 # Scope Guard

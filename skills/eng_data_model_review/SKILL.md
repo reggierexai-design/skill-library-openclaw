@@ -3,7 +3,7 @@ name: eng_data_model_review
 description: "Review schemas, entities, and state shape for consistency, change safety, and future query patterns."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"🛠️"}}
+metadata: {"openclaw":{"emoji":"🛠️"}
 ---
 
 ## Purpose

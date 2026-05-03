@@ -3,7 +3,7 @@ name: des_design_critique
 description: "Critique a design against goals, hierarchy, clarity, and flow instead of taste alone."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udd0d"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udd0d"}
 ---
 
 ## Purpose

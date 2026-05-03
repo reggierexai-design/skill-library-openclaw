@@ -3,7 +3,7 @@ name: eng_logging_observability
 description: "Improve logs, metrics, and traces so failures become diagnosable without drowning operators in noise."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"🛠️"}}
+metadata: {"openclaw":{"emoji":"🛠️"}
 ---
 
 ## Purpose

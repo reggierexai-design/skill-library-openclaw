@@ -1,9 +1,9 @@
-﻿---
+---
 name: ops_oncall_handoff
 description: "Prepare a crisp handoff of active incidents, risks, watches, and next actions for the next operator."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udd04"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udd04"}
 ---
 
 ## Purpose

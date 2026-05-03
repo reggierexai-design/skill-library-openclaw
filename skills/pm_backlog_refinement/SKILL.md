@@ -3,7 +3,7 @@ name: pm_backlog_refinement
 description: "Clean a backlog into better-shaped work with priority signals, dependencies, and next actions."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\uddc3\ufe0f"}}
+metadata: {"openclaw":{"emoji":"\ud83d\uddc3\ufe0f"}
 ---
 
 ## Purpose

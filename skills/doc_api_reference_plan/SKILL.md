@@ -3,7 +3,7 @@ name: doc_api_reference_plan
 description: "Plan API reference content so endpoints, parameters, errors, and examples stay coherent."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udd0c"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udd0c"}
 ---
 
 ## Purpose

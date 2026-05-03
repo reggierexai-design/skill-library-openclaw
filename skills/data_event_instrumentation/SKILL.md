@@ -3,7 +3,7 @@ name: data_event_instrumentation
 description: "Plan events, properties, and naming so analytics data stays trustworthy and useful."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udccd"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udccd"}
 ---
 
 ## Purpose

@@ -3,7 +3,7 @@ name: solo_energy_audit
 description: "Map your energy patterns and align your hardest work with your best hours."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🔋"}}
+metadata: {"openclaw":{"emoji":"🔋"}
 ---
 
 # Energy Audit

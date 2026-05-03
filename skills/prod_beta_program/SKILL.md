@@ -1,9 +1,9 @@
-﻿---
+---
 name: prod_beta_program
 description: "Design a beta program with candidate criteria, learning goals, guardrails, and feedback loops."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"\ud83e\uddea"}}
+metadata: {"openclaw":{"emoji":"\ud83e\uddea"}
 ---
 
 ## Purpose

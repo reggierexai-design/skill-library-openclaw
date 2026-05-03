@@ -3,7 +3,7 @@ name: eng_performance_probe
 description: "Find the dominant performance bottleneck before suggesting optimization work."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"🛠️"}}
+metadata: {"openclaw":{"emoji":"🛠️"}
 ---
 
 ## Purpose

@@ -3,7 +3,7 @@ name: finance_burn_rate
 description: "Track cash burn, calculate runway, and identify levers to extend it."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🔥"}}
+metadata: {"openclaw":{"emoji":"🔥"}
 ---
 
 # Burn Rate

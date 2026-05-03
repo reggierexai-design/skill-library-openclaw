@@ -3,7 +3,7 @@ name: pm_risk_register
 description: "Build a practical risk register with triggers, owners, mitigations, and review cadence."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"\u26a0\ufe0f"}}
+metadata: {"openclaw":{"emoji":"\u26a0\ufe0f"}
 ---
 
 ## Purpose

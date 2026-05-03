@@ -1,9 +1,9 @@
-﻿---
+---
 name: sec_threat_model
 description: "Model assets, threats, trust boundaries, and mitigations before building or changing a system."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"\ud83d\udee1\ufe0f"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udee1\ufe0f"}
 ---
 
 ## Purpose

@@ -3,7 +3,7 @@ name: eng_minimal_patch
 description: "Fix the problem with the smallest clean diff that preserves readability and future changeability."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🛠️"}}
+metadata: {"openclaw":{"emoji":"🛠️"}
 ---
 
 ## Purpose

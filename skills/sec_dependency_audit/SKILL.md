@@ -1,9 +1,9 @@
-﻿---
+---
 name: sec_dependency_audit
 description: "Review dependency trust, maintenance posture, and supply-chain risk before adoption or upgrade."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udce6"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udce6"}
 ---
 
 ## Purpose

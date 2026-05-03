@@ -1,9 +1,9 @@
-﻿---
+---
 name: sec_safe_disclosure_writeup
 description: "Write a precise security issue report with impact, evidence, and safe remediation guidance."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\udce3"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udce3"}
 ---
 
 ## Purpose

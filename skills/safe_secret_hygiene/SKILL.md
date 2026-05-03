@@ -3,7 +3,7 @@ name: safe_secret_hygiene
 description: "Keep credentials, tokens, cookies, and private data out of prompts, files, and logs."
 user-invocable: false
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🛡️"}}
+metadata: {"openclaw":{"emoji":"🛡️"}
 ---
 
 ## Purpose

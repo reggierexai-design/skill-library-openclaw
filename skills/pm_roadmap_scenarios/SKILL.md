@@ -3,7 +3,7 @@ name: pm_roadmap_scenarios
 description: "Turn competing ideas into roadmap scenarios with tradeoffs, dependencies, and downside risks."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83d\uddfa\ufe0f"}}
+metadata: {"openclaw":{"emoji":"\ud83d\uddfa\ufe0f"}
 ---
 
 ## Purpose

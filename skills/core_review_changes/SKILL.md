@@ -3,7 +3,7 @@ name: core_review_changes
 description: "Review edits, plans, or outputs for correctness, fit, and hidden regressions before finalizing."
 user-invocable: false
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🧭"}}
+metadata: {"openclaw":{"emoji":"🧭"}
 ---
 
 ## Purpose

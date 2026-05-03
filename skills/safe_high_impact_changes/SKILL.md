@@ -3,7 +3,7 @@ name: safe_high_impact_changes
 description: "Add extra caution before actions that could affect production, money, users, or public trust."
 user-invocable: false
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"\ud83d\udea6"}}
+metadata: {"openclaw":{"emoji":"\ud83d\udea6"}
 ---
 
 ## Purpose

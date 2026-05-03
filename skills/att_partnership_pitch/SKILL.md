@@ -1,4 +1,11 @@
---- name: att_partnership_pitch description: "Create a partnership angle, value exchange, and outreach package that feels mutually useful." user-invocable: true disable-model-invocation: true metadata: {"openclaw":{"emoji":"🤝"}} ---
+---
+name: att_partnership_pitch
+description: "Create a partnership angle, value exchange, and outreach package that feels mutually useful."
+user-invocable: true
+disable-model-invocation: true
+metadata: {"openclaw":{"emoji":"🤝"}
+---
+
 # Partnership Pitch
 
 ## Purpose

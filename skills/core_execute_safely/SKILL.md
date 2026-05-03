@@ -3,7 +3,7 @@ name: core_execute_safely
 description: "Execute the chosen plan with minimal diffs, bounded commands, and steady verification."
 user-invocable: false
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🧭"}}
+metadata: {"openclaw":{"emoji":"🧭"}
 ---
 
 ## Purpose

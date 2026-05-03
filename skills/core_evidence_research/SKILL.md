@@ -3,7 +3,7 @@ name: core_evidence_research
 description: "Gather fresh evidence with source discipline, concise notes, and clear uncertainty."
 user-invocable: false
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"🧭"}}
+metadata: {"openclaw":{"emoji":"🧭"}
 ---
 
 ## Purpose

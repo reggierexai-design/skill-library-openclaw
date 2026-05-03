@@ -1,9 +1,9 @@
-﻿---
+---
 name: sales_account_plan
 description: "Build an account plan covering stakeholders, pain, timing, deal strategy, and expansion paths."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83c\udfe2"}}
+metadata: {"openclaw":{"emoji":"\ud83c\udfe2"}
 ---
 
 ## Purpose

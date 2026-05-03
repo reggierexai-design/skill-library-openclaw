@@ -3,7 +3,7 @@ name: vibe_prototype_sprint
 description: "Run a focused 1-5 day sprint to build and validate a working prototype."
 user-invocable: true
 disable-model-invocation: false
-metadata: {"openclaw":{"emoji":"⚡"}}
+metadata: {"openclaw":{"emoji":"⚡"}
 ---
 
 # Prototype Sprint

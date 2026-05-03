@@ -1,9 +1,9 @@
-﻿---
+---
 name: sales_mutual_action_plan
 description: "Create a buyer-facing action plan with milestones, dependencies, and next commitments."
 user-invocable: true
 disable-model-invocation: true
-metadata: {"openclaw":{"emoji":"\ud83e\udd1d"}}
+metadata: {"openclaw":{"emoji":"\ud83e\udd1d"}
 ---
 
 ## Purpose
