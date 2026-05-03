@@ -1,0 +1,47 @@
+// Community building: onboarding, rituals, conflict resolution, feedback systems, growth loops, and retention.
+// For founders and operators building and growing communities.
+// Merge the skills array into agents.defaults.skills or an agent-specific skills allowlist.
+{
+  agents: {
+    defaults: {
+      skills: [
+        // community core
+        "comm_onboarding_flow",
+        "comm_ritual_design",
+        "comm_conflict_resolution",
+        "comm_feedback_system",
+        "comm_growth_loop",
+        "comm_retention_audit",
+        // attention
+        "att_community_playbook",
+        "att_content_calendar",
+        "att_creator_partnerships",
+        "att_message_house",
+        "att_proof_mining",
+        "att_launch_plan",
+        // product
+        "prod_feedback_synthesis",
+        "prod_activation_funnel",
+        "prod_retention_loop",
+        "prod_persona_snapshot",
+        "prod_customer_journey",
+        // core
+        "core_plan_task",
+        "core_context_budget",
+        "core_decision_record",
+        "core_recover_after_fail",
+        // safety
+        "safe_pii_minimization",
+        "safe_live_systems",
+        "safe_untrusted_input",
+        // legal
+        "legal_terms_review",
+        "legal_privacy_policy",
+        "legal_cookie_consent",
+        // data
+        "data_metric_definition",
+        "data_analysis_plan",
+      ],
+    },
+  },
+}

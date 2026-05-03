@@ -1,0 +1,45 @@
+// Legal compliance, privacy, IP, disclaimers, vendor agreements, pricing, burn rate, and tax readiness.
+// For founders who need to handle legal and financial obligations without a full team.
+// Merge the skills array into agents.defaults.skills or an agent-specific skills allowlist.
+{
+  agents: {
+    defaults: {
+      skills: [
+        // legal
+        "legal_terms_review",
+        "legal_privacy_policy",
+        "legal_cookie_consent",
+        "legal_ip_check",
+        "legal_disclaimer_audit",
+        "legal_vendor_dpa",
+        // finance
+        "finance_pricing_model",
+        "finance_revenue_forecast",
+        "finance_burn_rate",
+        "finance_unit_economics",
+        "finance_invoice_tracker",
+        "finance_tax_checklist",
+        // safety
+        "safe_pii_minimization",
+        "safe_secret_hygiene",
+        "safe_install_gate",
+        "safe_external_claims",
+        "safe_live_systems",
+        // security
+        "sec_data_flow_review",
+        "sec_appsec_review",
+        "sec_threat_model",
+        "sec_logging_exposure_check",
+        // core
+        "core_plan_task",
+        "core_decision_record",
+        "core_risk_gate",
+        "core_evidence_research",
+        "core_verify_done",
+        // operations
+        "ops_vendor_eval",
+        "ops_kpi_review",
+      ],
+    },
+  },
+}

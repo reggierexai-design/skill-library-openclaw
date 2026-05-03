@@ -1,9 +1,16 @@
 // A founder-oriented profile for messaging, product shaping, proof, launch, and follow-through.
+// Updated for v1.0 with solo founder rhythm, scope, energy, and shipping skills.
 // Merge the skills array into agents.defaults.skills or an agent-specific skills allowlist.
 {
   agents: {
     defaults: {
       skills: [
+        "solo_founder_rhythm",
+        "solo_context_switch",
+        "solo_scope_guard",
+        "solo_energy_audit",
+        "solo_rapid_ship",
+        "solo_wearing_hats",
         "core_context_budget",
         "core_decision_record",
         "core_evidence_research",

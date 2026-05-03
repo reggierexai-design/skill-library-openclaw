@@ -1,23 +1,32 @@
-// All skills enabled. Use only with explicit allowlists and an understanding of context cost.
+// All 215 skills enabled. Use only with explicit allowlists and an understanding of context cost.
+// Ultimate v1.0 — 20 categories, zero boilerplate, genuine domain expertise.
 // Merge the skills array into agents.defaults.skills or an agent-specific skills allowlist.
 {
   agents: {
     defaults: {
       skills: [
+        // ai (12)
         "ai_agent_spec",
         "ai_context_budget",
         "ai_eval_harness",
+        "ai_failure_taxonomy",
         "ai_guardrail_review",
+        "ai_memory_policy",
         "ai_model_routing",
+        "ai_prompt_regression_review",
         "ai_prompt_system",
         "ai_rag_design",
+        "ai_subagent_decomposition",
         "ai_tool_schema_review",
+        // attention (26)
         "att_attention_orchestrator",
         "att_case_study_builder",
         "att_changelog_story",
         "att_community_playbook",
         "att_comparison_page_brief",
         "att_content_calendar",
+        "att_content_repurposing",
+        "att_creator_partnerships",
         "att_demo_narrative",
         "att_directory_submission",
         "att_email_nurture_sequences",
@@ -36,6 +45,14 @@
         "att_social_proof_pack",
         "att_thread_writer",
         "att_webinar_workshop_outline",
+        // community (6) — NEW
+        "comm_conflict_resolution",
+        "comm_feedback_system",
+        "comm_growth_loop",
+        "comm_onboarding_flow",
+        "comm_retention_audit",
+        "comm_ritual_design",
+        // core (13)
         "core_context_budget",
         "core_decision_record",
         "core_evidence_research",
@@ -49,6 +66,7 @@
         "core_route_request",
         "core_scout_workspace",
         "core_verify_done",
+        // data (10)
         "data_analysis_plan",
         "data_anomaly_triage",
         "data_dashboard_brief",
@@ -56,7 +74,10 @@
         "data_experiment_readout",
         "data_metric_definition",
         "data_pipeline_triage",
+        "data_quality_checks",
+        "data_segmentation_plan",
         "data_sql_query_plan",
+        // design (9)
         "des_accessibility_review",
         "des_component_contract",
         "des_design_brief",
@@ -65,6 +86,8 @@
         "des_usability_test_plan",
         "des_visual_direction",
         "des_wireframe_spec",
+        "des_localization_readiness",
+        // documentation (11)
         "doc_api_reference_plan",
         "doc_docs_feedback_loop",
         "doc_information_architecture",
@@ -73,6 +96,10 @@
         "doc_quickstart_guide",
         "doc_release_notes",
         "doc_troubleshooting_guide",
+        "doc_version_announcement",
+        "doc_contributing_guide",
+        "doc_style_guide",
+        // engineering (20)
         "eng_api_review",
         "eng_bug_triage",
         "eng_ci_failure_triage",
@@ -81,6 +108,7 @@
         "eng_debug_systematically",
         "eng_dependency_risk",
         "eng_docs_for_change",
+        "eng_feature_flag_rollout",
         "eng_incident_response",
         "eng_issue_repro_harness",
         "eng_logging_observability",
@@ -91,7 +119,24 @@
         "eng_release_readiness",
         "eng_repo_onboarding",
         "eng_test_strategy",
+        "eng_upgrade_plan",
+        // finance (6) — NEW
+        "finance_burn_rate",
+        "finance_invoice_tracker",
+        "finance_pricing_model",
+        "finance_revenue_forecast",
+        "finance_tax_checklist",
+        "finance_unit_economics",
+        // legal (6) — NEW
+        "legal_cookie_consent",
+        "legal_disclaimer_audit",
+        "legal_ip_check",
+        "legal_privacy_policy",
+        "legal_terms_review",
+        "legal_vendor_dpa",
+        // operations (16)
         "ops_decision_log",
+        "ops_hiring_scorecard",
         "ops_issue_tracker_hygiene",
         "ops_kpi_review",
         "ops_launch_retrospective",
@@ -102,6 +147,11 @@
         "ops_status_update",
         "ops_support_triage",
         "ops_vendor_eval",
+        "ops_onboarding_checklist",
+        "ops_capacity_planning",
+        "ops_change_management",
+        "ops_post_incident_review",
+        // program (9)
         "pm_backlog_refinement",
         "pm_decision_meeting",
         "pm_dependency_map",
@@ -110,6 +160,8 @@
         "pm_roadmap_scenarios",
         "pm_scope_tradeoffs",
         "pm_stakeholder_update",
+        "pm_sprint_retrospective",
+        // product (16)
         "prod_activation_funnel",
         "prod_customer_journey",
         "prod_experiment_design",
@@ -124,6 +176,18 @@
         "prod_retention_loop",
         "prod_ui_copy_polish",
         "prod_ux_flow_design",
+        "prod_adoption_dashboard",
+        "prod_churn_reduction",
+        // quality (8)
+        "qa_acceptance_test_plan",
+        "qa_risk_based_testing",
+        "qa_release_smoke_test",
+        "qa_regression_suite",
+        "qa_accessibility_audit",
+        "qa_performance_benchmark",
+        "qa_security_scan_review",
+        "qa_cross_browser_check",
+        // research (10)
         "res_claim_audit",
         "res_competitor_scan",
         "res_interview_synthesis",
@@ -134,6 +198,7 @@
         "res_source_check",
         "res_web_journey_audit",
         "res_win_loss_review",
+        // safety (8)
         "safe_browser_login",
         "safe_external_claims",
         "safe_high_impact_changes",
@@ -142,6 +207,7 @@
         "safe_pii_minimization",
         "safe_secret_hygiene",
         "safe_untrusted_input",
+        // sales (9)
         "sales_account_research",
         "sales_demo_flow",
         "sales_discovery_call_plan",
@@ -149,6 +215,31 @@
         "sales_objection_map",
         "sales_pipeline_review",
         "sales_proposal_outline",
+        "sales_mutual_action_plan",
+        "sales_expansion_playbook",
+        // security (8)
+        "sec_appsec_review",
+        "sec_data_flow_review",
+        "sec_threat_model",
+        "sec_logging_exposure_check",
+        "sec_dependency_scan",
+        "sec_incident_triage",
+        "sec_access_review",
+        "sec_secrets_rotation",
+        // solo_founder (6) — NEW
+        "solo_context_switch",
+        "solo_energy_audit",
+        "solo_founder_rhythm",
+        "solo_rapid_ship",
+        "solo_scope_guard",
+        "solo_wearing_hats",
+        // vibe_coding (6) — NEW
+        "vibe_ai_pair_program",
+        "vibe_debug_no_code",
+        "vibe_deploy_novice",
+        "vibe_learning_path",
+        "vibe_prompt_to_app",
+        "vibe_prototype_sprint",
       ],
     },
   },

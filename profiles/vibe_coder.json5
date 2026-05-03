@@ -1,0 +1,47 @@
+// Vibe coding essentials: prompt-to-app, debugging, deployment, AI pair programming, prototyping, and learning path.
+// For developers who build with AI code generation tools and learn by doing.
+// Merge the skills array into agents.defaults.skills or an agent-specific skills allowlist.
+{
+  agents: {
+    defaults: {
+      skills: [
+        // vibe coding core
+        "vibe_prompt_to_app",
+        "vibe_debug_no_code",
+        "vibe_deploy_novice",
+        "vibe_ai_pair_program",
+        "vibe_prototype_sprint",
+        "vibe_learning_path",
+        // engineering essentials
+        "eng_bug_triage",
+        "eng_debug_systematically",
+        "eng_minimal_patch",
+        "eng_release_readiness",
+        "eng_test_strategy",
+        "eng_code_review_pass",
+        "eng_feature_flag_rollout",
+        // core operations
+        "core_plan_task",
+        "core_context_budget",
+        "core_recover_after_fail",
+        "core_verify_done",
+        // safety
+        "safe_secret_hygiene",
+        "safe_install_gate",
+        "safe_pii_minimization",
+        "safe_live_systems",
+        // solo founder (for indie hackers)
+        "solo_founder_rhythm",
+        "solo_scope_guard",
+        "solo_rapid_ship",
+        // product
+        "prod_feature_priority",
+        "prod_product_brief",
+        "prod_ux_flow_design",
+        // qa
+        "qa_release_smoke_test",
+        "qa_acceptance_test_plan",
+      ],
+    },
+  },
+}

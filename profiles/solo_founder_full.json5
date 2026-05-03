@@ -1,0 +1,75 @@
+// Complete solo founder profile: rhythm, scope, energy, shipping, plus legal, finance, vibe coding, and community.
+// The everything-you-need profile for a one-person operation.
+// Merge the skills array into agents.defaults.skills or an agent-specific skills allowlist.
+{
+  agents: {
+    defaults: {
+      skills: [
+        // solo founder core
+        "solo_founder_rhythm",
+        "solo_context_switch",
+        "solo_scope_guard",
+        "solo_energy_audit",
+        "solo_rapid_ship",
+        "solo_wearing_hats",
+        // core operations
+        "core_context_budget",
+        "core_decision_record",
+        "core_plan_task",
+        "core_recover_after_fail",
+        "core_risk_gate",
+        "core_verify_done",
+        // legal
+        "legal_terms_review",
+        "legal_privacy_policy",
+        "legal_cookie_consent",
+        "legal_ip_check",
+        "legal_disclaimer_audit",
+        "legal_vendor_dpa",
+        // finance
+        "finance_pricing_model",
+        "finance_revenue_forecast",
+        "finance_burn_rate",
+        "finance_unit_economics",
+        "finance_invoice_tracker",
+        "finance_tax_checklist",
+        // vibe coding
+        "vibe_prompt_to_app",
+        "vibe_debug_no_code",
+        "vibe_deploy_novice",
+        "vibe_ai_pair_program",
+        "vibe_prototype_sprint",
+        "vibe_learning_path",
+        // community
+        "comm_onboarding_flow",
+        "comm_ritual_design",
+        "comm_feedback_system",
+        "comm_growth_loop",
+        "comm_retention_audit",
+        "comm_conflict_resolution",
+        // attention
+        "att_message_house",
+        "att_proof_mining",
+        "att_launch_plan",
+        "att_content_calendar",
+        "att_founder_story",
+        // product
+        "prod_feature_priority",
+        "prod_product_brief",
+        "prod_pricing_packaging",
+        "prod_feedback_synthesis",
+        "prod_activation_funnel",
+        // safety
+        "safe_pii_minimization",
+        "safe_secret_hygiene",
+        "safe_install_gate",
+        "safe_external_claims",
+        // engineering
+        "eng_minimal_patch",
+        "eng_bug_triage",
+        "eng_debug_systematically",
+        "eng_release_readiness",
+      ],
+    },
+  },
+}
